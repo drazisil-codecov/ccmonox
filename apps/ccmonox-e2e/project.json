@@ -1,0 +1,10 @@
+{
+  "name": "ccmonox-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/ccmonox-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["ccmonox"],
+  "// targets": "to see all targets run: nx show project ccmonox-e2e --web",
+  "targets": {}
+}
